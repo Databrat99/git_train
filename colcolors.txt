@@ -1,3 +1,5 @@
 blue is a cold color
 prple is a cool color
 green is good
+
+3way merge step1
