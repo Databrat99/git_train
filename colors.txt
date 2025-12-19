@@ -1,2 +1,3 @@
 blue is primary color
 red is a primary color too
+add purple too
